@@ -1,0 +1,354 @@
+// !$*UTF8*$!
+{
+	07030CE21197A54800A8CAA7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 07030BED11978E7100A8CAA7 /* 5-1.png */;
+	};
+	07030CE31197A54800A8CAA7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SongEffect-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleSignature,
+		);
+		name = "/happysmile/work/working/SongEffect/SongEffect-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	07030CE41197A54800A8CAA7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 07030BFC11978FC200A8CAA7 /* 5-2.png */;
+	};
+	07030CE51197A54800A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SongEffectAppDelegate.m */;
+		name = "SongEffectAppDelegate.m: 22";
+		rLen = 19;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 234;
+	};
+	07030CE61197A54800A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07FBAE4A1193F5EB006A11BB /* EAGLReflectView.h */;
+		name = "EAGLReflectView.h: 70";
+		rLen = 0;
+		rLoc = 1881;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 859;
+	};
+	07030CE71197A54800A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07EBA5F71179454C00C2F487 /* EAGLView.h */;
+		name = "EAGLView.h: 19";
+		rLen = 32;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 0;
+	};
+	07030CE81197A54800A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SongEffectViewController.h */;
+		name = "SongEffectViewController.h: 15";
+		rLen = 31;
+		rLoc = 309;
+		rType = 0;
+		vrLen = 766;
+		vrLoc = 0;
+	};
+	07030CE91197A54800A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SongEffectViewController.m */;
+		name = "SongEffectViewController.m: 46";
+		rLen = 73;
+		rLoc = 1138;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 425;
+	};
+	07030D9B1197C91500A8CAA7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07FBAE4B1193F5EB006A11BB /* EAGLReflectView.m */;
+		name = "EAGLReflectView.m: 37";
+		rLen = 17;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 417;
+	};
+	0722A3191180161D00710092 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 07E64D3A117FE544009D6DAA /* Refresh.png */;
+	};
+	075102FD1198ECB80073EE66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07EBA5F81179454C00C2F487 /* EAGLView.m */;
+		name = "EAGLView.m: 623";
+		rLen = 0;
+		rLoc = 17387;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 17063;
+	};
+	0751034911990BB70073EE66 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07EBA5F81179454C00C2F487 /* EAGLView.m */;
+		name = "EAGLView.m: 621";
+		rLen = 39;
+		rLoc = 17293;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 17063;
+	};
+	07BD08C7118191D900DD7CAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	07CC623011992FEB001C3214 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07EBA5F81179454C00C2F487 /* EAGLView.m */;
+		name = "EAGLView.m: 621";
+		rLen = 39;
+		rLoc = 17293;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 21336;
+	};
+	07EBA5E01179450F00C2F487 /* SongEffect */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SongEffect;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	07EBA5EF1179451F00C2F487 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	07EBA5F01179451F00C2F487 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	07EBA5F71179454C00C2F487 /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 949}}";
+			sepNavSelRange = "{442, 32}";
+			sepNavVisRange = "{0, 899}";
+			sepNavWindowFrame = "{{543, 25}, {1009, 664}}";
+		};
+	};
+	07EBA5F81179454C00C2F487 /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 11804}}";
+			sepNavSelRange = "{17293, 39}";
+			sepNavVisRange = "{21336, 1041}";
+			sepNavWindowFrame = "{{352, -9}, {1009, 661}}";
+		};
+	};
+	07FAA5241189C51D00146FCD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SongEffectAppDelegate.h */;
+		name = "SongEffectAppDelegate.h: 23";
+		rLen = 27;
+		rLoc = 594;
+		rType = 0;
+		vrLen = 628;
+		vrLoc = 0;
+	};
+	07FBADAF1193BA94006A11BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 07FBADB01193BA94006A11BB /* CGImage.h */;
+		name = "CGImage.h: 33";
+		rLen = 44;
+		rLoc = 1143;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 743;
+	};
+	07FBADB01193BA94006A11BB /* CGImage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGImage.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h;
+		sourceTree = "<absolute>";
+	};
+	07FBAE4A1193F5EB006A11BB /* EAGLReflectView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 949}}";
+			sepNavSelRange = "{1881, 0}";
+			sepNavVisRange = "{859, 1029}";
+			sepNavWindowFrame = "{{570, 66}, {1009, 665}}";
+		};
+	};
+	07FBAE4B1193F5EB006A11BB /* EAGLReflectView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 11245}}";
+			sepNavSelRange = "{720, 17}";
+			sepNavVisRange = "{417, 763}";
+			sepNavWindowFrame = "{{15, 79}, {1009, 665}}";
+		};
+	};
+	07FBAF491193FAB0006A11BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SongEffect_Prefix.pch */;
+		name = "SongEffect_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* SongEffectAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {647, 345}}";
+			sepNavSelRange = "{594, 27}";
+			sepNavVisRange = "{0, 628}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SongEffectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 650}}";
+			sepNavSelRange = "{521, 19}";
+			sepNavVisRange = "{234, 621}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SongEffect */ = {
+		activeExec = 0;
+		executables = (
+			07EBA5E01179450F00C2F487 /* SongEffect */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SongEffectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {858, 472}}";
+			sepNavSelRange = "{309, 31}";
+			sepNavVisRange = "{0, 766}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SongEffectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 3705}}";
+			sepNavSelRange = "{1098, 2}";
+			sepNavVisRange = "{858, 1025}";
+			sepNavWindowFrame = "{{351, 82}, {1009, 664}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 07EBA5E01179450F00C2F487 /* SongEffect */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SongEffect */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SongEffect */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 07EBA5F01179451F00C2F487 /* Code sense */;
+		executables = (
+			07EBA5E01179450F00C2F487 /* SongEffect */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					680,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295251923;
+			PBXWorkspaceStateSaveDate = 295251923;
+		};
+		perUserProjectItems = {
+			07030CE21197A54800A8CAA7 = 07030CE21197A54800A8CAA7 /* PBXBookmark */;
+			07030CE31197A54800A8CAA7 = 07030CE31197A54800A8CAA7 /* PlistBookmark */;
+			07030CE41197A54800A8CAA7 = 07030CE41197A54800A8CAA7 /* PBXBookmark */;
+			07030CE51197A54800A8CAA7 = 07030CE51197A54800A8CAA7 /* PBXTextBookmark */;
+			07030CE61197A54800A8CAA7 = 07030CE61197A54800A8CAA7 /* PBXTextBookmark */;
+			07030CE71197A54800A8CAA7 = 07030CE71197A54800A8CAA7 /* PBXTextBookmark */;
+			07030CE81197A54800A8CAA7 = 07030CE81197A54800A8CAA7 /* PBXTextBookmark */;
+			07030CE91197A54800A8CAA7 = 07030CE91197A54800A8CAA7 /* PBXTextBookmark */;
+			07030D9B1197C91500A8CAA7 = 07030D9B1197C91500A8CAA7 /* PBXTextBookmark */;
+			0722A3191180161D00710092 = 0722A3191180161D00710092 /* PBXBookmark */;
+			075102FD1198ECB80073EE66 = 075102FD1198ECB80073EE66 /* PBXTextBookmark */;
+			0751034911990BB70073EE66 = 0751034911990BB70073EE66 /* PBXTextBookmark */;
+			07BD08C7118191D900DD7CAE = 07BD08C7118191D900DD7CAE /* PBXTextBookmark */;
+			07CC623011992FEB001C3214 /* PBXTextBookmark */ = 07CC623011992FEB001C3214 /* PBXTextBookmark */;
+			07FAA5241189C51D00146FCD = 07FAA5241189C51D00146FCD /* PBXTextBookmark */;
+			07FBADAF1193BA94006A11BB = 07FBADAF1193BA94006A11BB /* PBXTextBookmark */;
+			07FBAF491193FAB0006A11BB = 07FBAF491193FAB0006A11BB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 07EBA5EF1179451F00C2F487 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 454}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SongEffect_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 449}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+}
